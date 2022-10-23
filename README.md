@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raskolnikov-02
-- 👀 I’m interested in .IA..
-- 🌱 I’m currently learning .C..
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning C,C++ and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .YOU CANT..
 
